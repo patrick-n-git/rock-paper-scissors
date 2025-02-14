@@ -1,4 +1,4 @@
 # Rock, Paper, Scissors
 ## Description: User plays computer in rock, paper, and scissors.
-## How to use: Copy the html path to a browser. Right click, select inspect, select the console. The game is displayed here.
-## Known issue: Upon start up in a web browser, one must play the game 5 times before openings the console.
+## How to use: Click the buttons to make your selection and play against the computer
+## Future changes: 1: Print to the DOM what the computer and player played. 2: Have each round print to the same line, instead of on multiple lines.
